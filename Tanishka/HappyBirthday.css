@@ -1,0 +1,17 @@
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1{
+    font-family: Love Ya Like A Sister;
+    text-align: center;
+    position: relative;
+    margin-top: 230px;
+    font-size: 100px;
+    color: purple;
+}
+a{
+    text-decoration: none;
+}
